@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is an example of how to use a pacakged webdriverio pagobject library. This is a sister project to [wdio_pageobject](https://github.com/nshirley/wdio_pageobject)
+This is an example of how to use a pacakged webdriverio pagobject library. This is a sister project to [wdio_pageobject](https://github.com/nshirley/wdio_pageobject) and built using the default example test provided by [webdriverio](https://webdriver.io/) when setting up from their CLI tooling.
 
 ---
 
