@@ -26,7 +26,7 @@ yarn link "wdio_pageobject"
 - From there you can import any of the PageObjects like so
 
 ```TS
-import { StudentHomePage } from "wdio_pageobject"
+import { SecurePage } from "wdio_pageobject"
 ```
 
 #### Building Tests:
